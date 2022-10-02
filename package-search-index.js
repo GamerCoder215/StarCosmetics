@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"me.gamercoder215.starcosmetics.api"},{"l":"me.gamercoder215.starcosmetics.api.cosmetics"},{"l":"me.gamercoder215.starcosmetics.api.cosmetics.structure"},{"l":"me.gamercoder215.starcosmetics.api.player"}];updateSearchResults();
