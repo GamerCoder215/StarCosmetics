@@ -3,5 +3,6 @@ me.gamercoder215.starcosmetics.api.cosmetics
 me.gamercoder215.starcosmetics.api.cosmetics.custom
 me.gamercoder215.starcosmetics.api.cosmetics.particle
 me.gamercoder215.starcosmetics.api.cosmetics.registry
+me.gamercoder215.starcosmetics.api.cosmetics.sound
 me.gamercoder215.starcosmetics.api.cosmetics.structure
 me.gamercoder215.starcosmetics.api.player
